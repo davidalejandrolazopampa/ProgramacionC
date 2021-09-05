@@ -26,7 +26,7 @@
 * 21 Análisis y eficiencia de Algoritmos
 * 22 Algoritmos Recursivos
 * 23 Biblioteca Estándar de plantillas STL
-# Complejidad de Capitulos
+# Complejidad de Temas
 * 1-12 Básico
 * 13-17 Intermedio
 * 18-23 Avanzado

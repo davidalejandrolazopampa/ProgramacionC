@@ -9,7 +9,9 @@
 #define ROF(i,a,b) for(long long i=(a);i>=b;i--)
 #define sz(x) (int)(x).size();
 
+//Acortamos el STD para no repetirlo en el COUT y ENDL
 using namespace std;
+
 //Todo typedef
 typedef long long ll;
 typedef long double ld;
@@ -23,5 +25,8 @@ typedef vector<bool> vb;
 //Todo depende del cambio de N
 const int N = 2e+5+10;
 int arr[N] ;
+//Agregaremos los Avances
+//Básico
+#include "BASICO/1.h"
 
 #endif //PROGRAMACIONC_PRINCIPAL_H
