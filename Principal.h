@@ -28,5 +28,5 @@ int arr[N] ;
 //Agregaremos los Avances
 //Básico
 #include "BASICO/1.h"
-
+#include "BASICO/2.h"
 #endif //PROGRAMACIONC_PRINCIPAL_H

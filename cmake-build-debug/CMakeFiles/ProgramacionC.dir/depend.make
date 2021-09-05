@@ -3,6 +3,7 @@
 
 CMakeFiles/ProgramacionC.dir/main.cpp.obj: \
  ../BASICO/1.h \
+ ../BASICO/2.h \
  ../EJERCICIOS/ejercicios.h \
  ../Principal.h \
  ../main.cpp
