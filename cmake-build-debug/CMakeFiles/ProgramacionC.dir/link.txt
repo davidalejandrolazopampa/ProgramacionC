@@ -1,0 +1,3 @@
+C:\Users\davla\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.5080.54\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\ProgramacionC.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\ProgramacionC.dir/objects.a @CMakeFiles\ProgramacionC.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\ProgramacionC.dir/objects.a -Wl,--no-whole-archive -o ProgramacionC.exe -Wl,--out-implib,libProgramacionC.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ProgramacionC.dir\linklibs.rsp
